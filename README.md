@@ -12,7 +12,7 @@ Sample applications demonstrating use of [perlbsc](https://github.com/BRCDcomm/p
 ```
 
 ## Brocade SDN Controller Version Support:
-* 1.3.0 folder has been tested with Brocade SDN Controller 1.3.0
+* 1.3.0 folder has been tested with Brocade SDN Controller 1.3.0 and perlbsc 1.0.2
 
 
 ## Sample Apps
@@ -62,6 +62,11 @@ Sample applications demonstrating use of [perlbsc](https://github.com/BRCDcomm/p
     * _vr_demo_5.pl_: Get information on dataplane interfaces configured on vRouter.
     * _vr_demo_6.pl_: Get information on loopback interfaces configured on vRouter".
     * _vr_demo_7.pl_: Create complex firewalls for vRouter
+    * _vr_demo8_: adds and removes a VPN configuration for Remote Access VPN Configuration Example - L2TP/IPsec with Pre-Shared Key
+    * _vr_demo9_: adds and removes a VPN configuration for Remote Access VPN Configuration Example - L2TP/IPsec with X.509 Certificates
+    * _vr_demo10_: adds and removes a VPN configuration for site-to-site VPN with pre-shared key (PSK) authentication
+    * _vr_demo11_: adds and removes a VPN configuration for site-to-site VPN with RSA Digital Signature authentication
+    * _vr_demo12_: adds and removes a VPN configuration for Site-to-Site VPN Configuration - X.509 Certificate Authentication
 * 1.3.0/sample_netconf/cmds
     * _mount.pl_: Mount the vRouter onto Controller.
     * _show_cfg.pl_: Show config of vRouter.
