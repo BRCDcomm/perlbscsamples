@@ -12,7 +12,7 @@ Sample applications demonstrating use of [perlbsc](https://github.com/BRCDcomm/p
 ```
 
 ## Brocade SDN Controller Version Support:
-* 1.3.0 folder has been tested with Brocade SDN Controller 1.3.0 and perlbsc 1.0.2
+* 1.3.0 folder has been tested with Brocade SDN Controller 1.3.0 and perlbsc 1.0.4
 
 
 ## Sample Apps
