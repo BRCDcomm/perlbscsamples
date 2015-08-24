@@ -67,6 +67,8 @@ Sample applications demonstrating use of [perlbsc](https://github.com/BRCDcomm/p
     * _vr_demo10_: adds and removes a VPN configuration for site-to-site VPN with pre-shared key (PSK) authentication
     * _vr_demo11_: adds and removes a VPN configuration for site-to-site VPN with RSA Digital Signature authentication
     * _vr_demo12_: adds and removes a VPN configuration for Site-to-Site VPN Configuration - X.509 Certificate Authentication
+    * _vr_demo13_: adds and removes a vtun0 OpenVPN tunnel for Site-to-Site Mode with Preshared Secret
+    * _vr_demo14_: adds and removes a vtun0 OpenVPN tunnel for Site-to-Site Mode with TLS
 * 1.3.0/sample_netconf/cmds
     * _mount.pl_: Mount the vRouter onto Controller.
     * _show_cfg.pl_: Show config of vRouter.
